@@ -21,17 +21,17 @@ const DataTable = () => {
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Barry Allen</td>
-                        <td>34</td>
-                        <td>25</td>
-                        <td>15017.00</td>
+                        <td>Joao Mendes</td>
+                        <td>40</td>
+                        <td>15</td>
+                        <td>19014.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Barry Allen</td>
-                        <td>34</td>
+                        <td>Cassio Jorge</td>
                         <td>25</td>
-                        <td>15017.00</td>
+                        <td>23</td>
+                        <td>10009.00</td>
                     </tr>
                 </tbody>
             </table>
